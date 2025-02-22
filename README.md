@@ -1,4 +1,4 @@
-## Hi there 👋
+## <img src="img/bob-red.png" width="25px"> Hi! I'm Aaron Ramos <img src="img/bob-red.png" width="25px">
 
 <!--
 **AaronRHdev/AaronRHdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
