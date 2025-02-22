@@ -24,7 +24,7 @@ I'm a software engineering student, I'm passionate about data science and fronte
 
 <br><br><br><br><br><br>
 
-<h2> <picture><img src="img/developer.gif" height="40px"> MY SKILLS 🦾 </picture></h2>
+<h2> <picture><img src="img/developer.gif" height="40px"></picture> MY SKILLS 🦾 </h2>
 
 ✅ Categories|⭐ Skill 
 --------------|---------
