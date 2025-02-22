@@ -2,6 +2,8 @@
 
 <img src="img/banner.gif" style="width: 100%">
 
+![Static Badge](https://img.shields.io/badge/%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%8E%93-Data%20Science%20Student-%23021b2b)
+![Static Badge](https://img.shields.io/badge/%F0%9F%96%8C%EF%B8%8F-Frontend%20Developer%20JR-%23301860)
 <h2> <img src="img/about-me.gif" height="40px"> ABOUT ME 🙋🏽‍♂️</h2>
 
 <div style="display: flex; justify-content: space-between; box-sizing: border-box; ">
