@@ -28,7 +28,7 @@ I'm a software engineering student, I'm passionate about data science and fronte
 
 ✅ Categories|⭐ Skill 
 --------------|---------
-Langiages|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" /></a></p>
+Languages|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" /></a></p>
 IDE|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" /></a></p>
 OS|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" /></a></p>
 Tools|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a></p>
