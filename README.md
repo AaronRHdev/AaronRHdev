@@ -38,7 +38,7 @@ Tools|<p align="center"><a href="https://skillicons.dev"><img src="https://skill
 
 🛠️ Project|🔗 Link|🪐 Demo|💡 Technologies|
 -----------|-------|-------|----------------|
-Generator references in the format APA|<a href="https://github.com/AaronRHdev/format-APA-generator">Repo</a>|<a href="https://aaronrhdev.github.io/format-APA-generator/">Website</a>|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,CSS,js" /></a></p>
+Generator references in the format APA|<a href="https://github.com/AaronRHdev/format-APA-generator">Repo</a>|<a href="https://aaronrhdev.github.io/format-APA-generator/">Website</a>|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" /></a></p>
 
 
 <h2> <img src="img/contact-me.jpg" height="40px"> CONTACT ME 📧 </h2>
