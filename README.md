@@ -40,6 +40,14 @@ Tools|<p align="center"><a href="https://skillicons.dev"><img src="https://skill
 -----------|-------|-------|----------------|
 Generator references in the format APA|<a href="https://github.com/AaronRHdev/format-APA-generator">Repo</a>|<a href="https://aaronrhdev.github.io/format-APA-generator/">Website</a>|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" /></a></p>
 
+<h2> <picture><img src="img/data-test.gif" height="40px"></picture>GITHUB ANALYTICS 🧬</h2>
+
+<p align="center">
+<a href="https://github.com/AaronRHdev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AaronRHdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AaronRHdev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <h2> <img src="img/contact-me.jpg" height="40px"> CONTACT ME 📧 </h2>
 
@@ -50,13 +58,4 @@ Generator references in the format APA|<a href="https://github.com/AaronRHdev/fo
   <a href="https://www.linkedin.com/in/aaronramos-dev/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
-
-<h2> <picture><img src="img/data-test.gif" height="40px"></picture>GITHUB ANALYTICS 🧬</h2>
-
-<p align="center">
-<a href="https://github.com/AaronRHdev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AaronRHdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AaronRHdev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
