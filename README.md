@@ -14,7 +14,7 @@ I'm a software engineering student, I'm passionate about data science and fronte
 <br>
 
 - 🔭 I’m currently working on: generator References in the format APA
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python and Docker
 - 🤔 I’m looking for help with: Data Science
 - 📫 How to reach me: aaron.rm.hr@gmail.com
 - 😄 Pronouns: he/him
@@ -31,7 +31,7 @@ I'm a software engineering student, I'm passionate about data science and fronte
 Languages|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,python" /></a></p>
 IDE|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" /></a></p>
 OS|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" /></a></p>
-Tools|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a></p>
+Tools|<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker" /></a></p>
 
 
 <h2> <img src="img/last-work.gif" height="40px"> MY LAST WORK 💻</h2>
